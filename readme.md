@@ -6,13 +6,13 @@ This is a collection of components and styles meant to learn from and to be used
 
 1.  Install NodeJS from nodejs.org/en/download/
 
-1.1. Check your installation by command line
+    1.1. Check your installation by command line
 ```
 npm --version
 ```
 
 1.2. The response should look like this
-![](https://github.com/mycodepool/vue-examples/result_npm_installation.png)
+![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
 
 
 2. Install VueJS
@@ -30,7 +30,7 @@ vue --version
 ```
 
 2.2. The response should look like this
-![](https://github.com/mycodepool/vue-examples/result_vue_installation.png)
+![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_vue_installation.png)
 
 
 For more information please consider the readme file of each example.
