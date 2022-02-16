@@ -7,12 +7,12 @@ This is a collection of components and styles meant to learn from and to be used
 1.  Install NodeJS from nodejs.org/en/download/
 
     1.1. Check your installation by command line
-```
-npm --version
-```
+         ```
+         npm --version
+         ```
 
-1.2. The response should look like this
-![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
+    1.2. The response should look like this</br></br>
+         ![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
 
 
 2. Install VueJS
@@ -29,7 +29,7 @@ npm install @vue/cli
 vue --version
 ```
 
-2.2. The response should look like this
+2.2. The response should look like this</br></br>
 ![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_vue_installation.png)
 
 
