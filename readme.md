@@ -11,7 +11,7 @@ This is a collection of components and styles meant to learn from and to be used
 npm --version
 ```
 
-    1.2. The response should look like this</br></br>
+    1.2. The response should look like this
 ![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
 
 
