@@ -2,8 +2,6 @@
 
 This is a collection of components and styles meant to learn from and to be used across all official Vue.js apps.
 
-For more information please consider the readme file of each example.
-
 ## These installations may helpful 
 
 1.  Install NodeJS from nodejs.org/en/download/
@@ -20,11 +18,11 @@ npm --version
 2. Install VueJS
 ```
 npm install vue@next
-```
+´´´
 
 ```
 npm install @vue/cli
-```
+´´´
 
 2.1 Check your installation by command line
 ```
