@@ -1,6 +1,6 @@
-# vue-project
+# Router basics
 
-This template should help get you started developing with Vue 3 in Vite.
+**Documentation is Work In Progress**
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
