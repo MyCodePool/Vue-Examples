@@ -9,7 +9,7 @@ This is a collection of components and styles meant to learn from and to be used
     1.1. Check your installation by command line
 ```
 npm --version
-```
+´´´
 
     1.2. The response should look like this</br></br>
 ![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
