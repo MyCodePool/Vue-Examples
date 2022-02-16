@@ -12,7 +12,7 @@ npm --version
 ```
 
 1.2. The response should look like this
-![](https://mycodepool.github.io/vue-examples/result_npm_installation.png)
+![](https://github.com/mycodepool/vue-examples/result_npm_installation.png)
 
 
 2. Install VueJS
@@ -30,7 +30,7 @@ vue --version
 ```
 
 2.2. The response should look like this
-![](https://mycodepool.github.io/vue-examples/result_vue_installation.png)
+![](https://github.com/mycodepool/vue-examples/result_vue_installation.png)
 
 
 For more information please consider the readme file of each example.
