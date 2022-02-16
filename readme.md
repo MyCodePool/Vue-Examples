@@ -12,7 +12,7 @@ npm --version
 ```
 
     1.2. The response should look like this</br></br>
-         ![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
+![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_npm_installation.png)
 
 
 2. Install VueJS
