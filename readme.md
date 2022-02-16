@@ -23,7 +23,7 @@ npm install vue@next
 npm install @vue/cli
 ```
 
- Check your installation by command line
+    Check your installation by command line
    
 ```
 vue --version
