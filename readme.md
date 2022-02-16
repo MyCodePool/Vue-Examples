@@ -23,12 +23,11 @@ npm install vue@next
 npm install @vue/cli
 ```
 
-2.1. Check your installation by command line
+    Check your installation by command line
 ```
 vue --version
 ```
 
-2.2. The response should look like this</br></br>
 ![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/result_vue_installation.png)
 
 
