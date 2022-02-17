@@ -13,10 +13,10 @@ npm install vue-router@4
 npm install @vue/cli
 ```
 
-![Router Installation & Getting Started](https://router.vuejs.org/installation.html) 
+Router Installation & Getting Started: https://router.vuejs.org/installation.html 
 
-![CLI Installation & Getting Started](https://cli.vuejs.org/guide/installation.html) 
+CLI Installation & Getting Started:https://cli.vuejs.org/guide/installation.html)
 
-![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/router-example.gif)
+![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/router-basics/router-example.gif)
 
 Enjoy it!
