@@ -1,31 +1,22 @@
-# Router basics
+# Vue Router Examples
 
-**Documentation is Work In Progress**
+This is a collection of components and styles meant to learn from and to be used across all official Vue.js apps.
 
-## Recommended IDE Setup
+## These installations may helpful for this Example
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+Install VueJS Router & CLI
+```
+npm install vue-router@4
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+```
+npm install @vue/cli
 ```
 
-### Compile and Minify for Production
+![Router Installation & Getting Started](https://router.vuejs.org/installation.html) 
 
-```sh
-npm run build
-```
+![CLI Installation & Getting Started](https://cli.vuejs.org/guide/installation.html) 
 
+![](https://raw.githubusercontent.com/MyCodePool/Vue-Examples/main/router-example.gif)
 
+Enjoy it!
