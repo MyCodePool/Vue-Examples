@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyToDo App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      
+    <div id="app">
+      <div>
+        <label for="goal">MyToDos</label>
+        <input type="text" id="goal" v-model="enteredValue"/>
+        <button @click="addGoal">Add Task</button>
+      </div>
+      <ul>
+        <li v-for="(goal, index) in goals"><button @click="deleteGoal(index)">Done!</button> {{ goal }}</li>
+      </ul>
+      <button @click="resetGoals">Reset Tasks</button>
+    </div>
+    <script src="https://unpkg.com/vue@next"></script><!-- Vue3 -->
+    <script src="app.js"></script>
+  </body>
+</html>
