@@ -1,6 +1,6 @@
-# Vue Router Examples
+# Vue Router Example
 
-This is a collection of components and styles meant to learn from and to be used across all official Vue.js apps.
+This is a router example to show how changing components by router works.
 
 ## These installations may helpful for this Example
 
