@@ -1,6 +1,18 @@
-# Vue UI Examples
+<div align="center">
 
-This is a collection of components and styles meant to learn from and to be used across all official Vue.js apps.
+  <h3 align="center">Vue UI Examples</h3>
+
+  <p align="center">
+    This is an ongoing collection of components and styles meant to learn from and to be used across all official Vue.js apps.
+    <br />
+    Please let me know if you are looking for sepcific ones.
+    <br /><br />
+    <a href="https://github.com/MyCodePool/Vue-Examples/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/MyCodePool/Vue-Examples/issues">Request Feature</a>
+  </p>
+</div>
+
 
 ## These installations may helpful 
 
