@@ -3,7 +3,7 @@
   <h3 align="center">Vue UI Examples</h3>
 
   <p align="center">
-    This is an ongoing collection of components and styles meant to learn from and to be used across all official Vue.js apps.
+    This is an ongoing repo of components and styles meant to learn from and to be used across all official Vue.js apps.
     <br />
     Please let me know if you are looking for sepcific ones.
     <br /><br />
